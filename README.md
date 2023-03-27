@@ -5,6 +5,7 @@ Tech_plog is a Node.js web application that uses the Express.js framework to han
 ## Table of Contents
 
 **Installation**
+__✔︎ Underlined text with a heavy checkmark__
 
 Usage
 
