@@ -13,7 +13,7 @@ Tech_plog is a Node.js web application built using the Express.js framework, whi
 
 ✔︎ User profile: Each user has a profile page that displays their username and their posts.
 
-![image](https://user-images.githubusercontent.com/118404373/227828526-7f5672b2-e6f8-4e47-898b-41d036e4a45e.png)
+![image](https://user-images.githubusercontent.com/118404373/227828816-c88fa118-bea2-420f-b16a-fbbef06a2a73.png)
 
 
 ## Installation
