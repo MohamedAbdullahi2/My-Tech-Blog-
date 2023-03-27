@@ -15,10 +15,6 @@ const userdata =
     "password": "Web2005"
   },
   {
-    "username": "Hassan",
-    "password": "Web2005"
-  },
-  {
     "username": "John",
     "password": "Web2005"
   },
