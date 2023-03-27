@@ -26,7 +26,7 @@ const commentFormHandler = async (event) => {
       alert(response.statusText);
     }
   };
-}
+};
 
 document
   .querySelector('#new-comment-form')
